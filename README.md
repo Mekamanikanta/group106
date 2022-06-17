@@ -45,6 +45,33 @@ B)Pensioner detail Microservice:
 
 Main Functionality-->
 
-a)Used to find all the pensioner details.
+a)Used to find all the pensioner details
+
+GET Method: Go to Url section and paste---> http://localhost:8080/pension/alldetails
 
 b)Used to find details of a particular pensioner by Aadhar card number. 
+
+GET Method: Go to Url section and paste---> http://localhost:8080/pension/87938340489
+
+
+a)To find all the pensioner details.
+------------------------------------
+
+Step-1:Open Postman and follow the steps below:
+ 
+Step-2:Go to Url section and paste---> http://localhost:8080/pension/getAllPensioner
+
+b)To find details of a particular pensioner by Aadhar card number.
+-----------------------------------------------------------------
+
+Step-1:Open Postman and follow the steps below:
+
+Step-2:Go to Url section and paste---> http://localhost:8080/pension/PensionerDetailByAadhaar/420559429029
+
+C)Process Pension Microservice:
+-------------------------------
+
+Main Functionality-->
+
+a)Calculate Pension.
+
