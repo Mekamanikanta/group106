@@ -75,3 +75,19 @@ Main Functionality-->
 
 a)Calculate Pension.
 
+Steps: Will later
+
+Pension amount calculation detail is as follows
+------------------------------------------------
+**▪ Self pension: 80% of the last salary earned + allowances**
+
+**▪ Family pension: 50% of the last salary earned + allowances**
+
+o The Pensioner detailmicroservice has the bank detail. Process pension microservice can have pre-defined list of banks and service charge as follows
+
+**▪ Public banks – INR 500**
+
+**▪ Private banks – INR 550**
+ 
+ 
+ 
